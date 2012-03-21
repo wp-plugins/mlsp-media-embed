@@ -3,7 +3,7 @@ Contributors: jkhoffman, fanalejr
 Tags: MLSP, embed media, responsive media, responsive video
 Requires at least: 2.8
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Add MLSP media embed support to wordpress. Optional responsive media script that will resize all media embeds to fit any browser size
 
