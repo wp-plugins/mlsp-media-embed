@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: MLSP Media Embed
-Plugin URI: http://myleadsystempro.com/
+Plugin URI: http://www.mlmleadsystempro.com/wordpress-media-embed
 Description: Enables functionality for embedding media from MyLeadSystemPRO.com. Also allows you to activate a script that will allow all media embeds to resize dynamically (VERY useful for responsive themes!).
 Version: 1.0.1
 License: GPLv2
