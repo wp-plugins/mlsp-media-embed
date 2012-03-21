@@ -25,6 +25,8 @@ function provided by wordpress and upload the .zip file directly.
 
 3. Head over to your media options to activate the responsive media functionality (Helpful if you use a responsive theme)
 
+* Check out tutorial video at http://www.mlmleadsystempro.com/wordpress-media-embed if you need help
+
 
 == Changelog ==
 
