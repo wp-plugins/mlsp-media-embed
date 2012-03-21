@@ -3,7 +3,7 @@
 Plugin Name: MLSP Media Embed
 Plugin URI: http://myleadsystempro.com/
 Description: Enables functionality for embedding media from MyLeadSystemPRO.com. Also allows you to activate a script that will allow all media embeds to resize dynamically (VERY useful for responsive themes!).
-Version: 1.0
+Version: 1.0.1
 License: GPLv2
 Author: Jeff Hoffman & Jim Fanale
 Author URI: http://mlmblogmastery.co/
