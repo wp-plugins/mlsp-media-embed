@@ -88,7 +88,7 @@ video {
 }
 .embed-container {
 	position: relative;
-	padding-top: 30px;
+ /* padding-top: 30px; */
 	margin: 0 0px 30px;
 	height: 0;
 	overflow: hidden;

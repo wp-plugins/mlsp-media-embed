@@ -28,8 +28,12 @@ function provided by wordpress and upload the .zip file directly.
 
 == Changelog ==
 
-
+= 1.0 =
+* Fix padding issue with the responsive media script
 
 == Upgrade Notice ==
+
+= 1.0 =
+Fix padding issue with the responsive media script. Upgrade if using script.
 
 
